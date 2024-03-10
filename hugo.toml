@@ -1,0 +1,4 @@
+baseURL = 'https://recelis.github.io/'
+languageCode = 'en-us'
+title = 'Jackiesnacks'
+theme = 'ananke'
